@@ -1,0 +1,8 @@
+﻿  ForceEmgDataLoggerkuka.cpp
+c:\users\students\desktop\eteki\forceemgdataloggerkuka\my includes\armband\include\myo\cxx\detail\throwonerror.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\students\desktop\eteki\forceemgdataloggerkuka\my includes\armband\include\myo\cxx\detail\throwonerror.hpp(39): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\students\desktop\eteki\forceemgdataloggerkuka\my includes\armband\include\myo\cxx\detail\throwonerror.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\students\desktop\eteki\forceemgdataloggerkuka\my includes\armband\include\myo\cxx\detail\throwonerror.hpp(45): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\students\desktop\eteki\forceemgdataloggerkuka\forceemgdataloggerkuka\forceemgdataloggerkuka.cpp(289): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ForceEmgDataLoggerkuka.vcxproj -> C:\Users\students\Desktop\Eteki\ForceEmgDataLoggerkuka\x64\Debug\ForceEmgDataLoggerkuka.exe
+  ForceEmgDataLoggerkuka.vcxproj -> C:\Users\students\Desktop\Eteki\ForceEmgDataLoggerkuka\x64\Debug\ForceEmgDataLoggerkuka.pdb (Full PDB)
